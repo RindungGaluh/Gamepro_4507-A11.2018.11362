@@ -1,0 +1,90 @@
+[api-updater (non-obsolete-error-filter)] 10/11/2021 2:06:33 AM : Starting C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 7738.5854ms
+moved types parse time: 653ms
+candidates parse time : 4ms
+C# parse time         : 2732ms
+candidates check time : 451ms
+console write time    : 11ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2021 2:37:17 AM : Starting C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 720.2409ms
+moved types parse time: 244ms
+candidates parse time : 4ms
+C# parse time         : 818ms
+candidates check time : 191ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2021 2:39:06 AM : Starting C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 499.9847ms
+moved types parse time: 234ms
+candidates parse time : 9ms
+C# parse time         : 795ms
+candidates check time : 117ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2021 2:40:05 AM : Starting C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1132.5521ms
+moved types parse time: 229ms
+candidates parse time : 7ms
+C# parse time         : 933ms
+candidates check time : 134ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/30/2021 12:06:33 AM : Starting D:/Kuliah/SMT 7/Game Programming/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 7778.1763ms
+moved types parse time: 283ms
+candidates parse time : 4ms
+C# parse time         : 2857ms
+candidates check time : 153ms
+console write time    : 7ms
+
+[api-updater (non-obsolete-error-filter)] 11/30/2021 12:20:26 AM : Starting D:/Kuliah/SMT 7/Game Programming/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 712.8793ms
+moved types parse time: 280ms
+candidates parse time : 4ms
+C# parse time         : 1055ms
+candidates check time : 202ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/30/2021 1:04:14 AM : Starting D:/Kuliah/SMT 7/Game Programming/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 5696.9754ms
+moved types parse time: 243ms
+candidates parse time : 4ms
+C# parse time         : 898ms
+candidates check time : 144ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/30/2021 1:04:40 AM : Starting D:/Kuliah/SMT 7/Game Programming/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 545.1415ms
+moved types parse time: 246ms
+candidates parse time : 7ms
+C# parse time         : 910ms
+candidates check time : 146ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/30/2021 1:29:54 AM : Starting D:/Kuliah/SMT 7/Game Programming/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 636.8629ms
+moved types parse time: 257ms
+candidates parse time : 6ms
+C# parse time         : 1325ms
+candidates check time : 142ms
+console write time    : 3ms
+
